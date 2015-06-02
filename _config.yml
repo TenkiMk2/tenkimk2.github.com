@@ -1,8 +1,8 @@
 # Site wide configuration
 
 title: GameHouse
-description:
-logo: blue.jpg # 120x120 px default image used for Twitter summary card
+description: "게임에 대한 전반적인 정보와 리뷰를 올립니다."
+logo: # 120x120 px default image used for Twitter summary card
 teaser: black.jpg # 400x250 px default teaser image used in image archive grid
 locale:
 url:
@@ -21,15 +21,15 @@ gems:
 
 
 # Site owner
-owner:
-  name:
-  email:
+owner: 김동화
+  name: 김동화
+  email: 
   twitter:
   google:
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: gray.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
