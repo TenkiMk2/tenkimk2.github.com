@@ -13,8 +13,9 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: /:categories/:title/
-kramdown: markdown: redcarpet
-  toc_levels: 1..2
+#kramdown:
+  #toc_levels: 1..2
+redcarpet:  
 highlighter: pygments
 gems:
   - jekyll-sitemap
